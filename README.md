@@ -1,9 +1,11 @@
-<!DOCTYPE html>
+<!DOCTYPE html
 <html>
 <head>
-<title>skibidi sigma</title>
+<title>Sigma</title>
+<link rel="stylesgeet" href="style.css">
 </head>
 <body>
-<p class="red">skibidi sigma</p>
+<h1>Skibidi</h1>
+<p>Kiel Sigma</p>
 </body>
 </html>
