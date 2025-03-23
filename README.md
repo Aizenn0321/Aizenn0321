@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>skibidi sigma</title>
-<head>
+</head>
 <body>
 <p class="red">skibidi sigma</p>
 </body>
